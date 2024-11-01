@@ -64,28 +64,28 @@ const channelsListData =
 const socialMediasData = 
 [
   {
-    href: "https://www.youtube.com/maykbrito",
-    src: "/assets/github.svg",
+    href: "https://github.com/matheusaguiarrr",
+    src: "nlw-esports-explorer-react/assets/github.svg",
     alt: "Logo do GitHub"
   },
   {
-    href: "https://www.twitter.com/maykbrito",
-    src: "/assets/linkedin.svg",
+    href: "https://www.linkedin.com/in/matheusaguiarrr/",
+    src: "nlw-esports-explorer-react/assets/linkedin.svg",
     alt: "Logo do Linkedin"
   },
   {
-    href: "https://www.youtube.com/maykbrito",
-    src: "/assets/instagram.svg",
+    href: "https://www.instagram.com/matheus_pea/",
+    src: "nlw-esports-explorer-react/assets/instagram.svg",
     alt: "Logo do Instagram"
   },
   {
-    href: "https://www.instagram.com/maykbrito",
-    src: "/assets/discord.svg",
+    href: "https://discordapp.com/users/pda7330",
+    src: "nlw-esports-explorer-react/assets/discord.svg",
     alt: "Logo do Discord"
   },
   {
-    href: "https://www.twitch.tv/maykbrito",
-    src: "/assets/twitter.svg",
+    href: "https://x.com/matheus_pea",
+    src: "nlw-esports-explorer-react/assets/twitter.svg",
     alt: "Logo da Twitch"
   }
 ]
